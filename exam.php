@@ -35,12 +35,33 @@
 // echo increment($a);
 
 
-$a = 3;
+// $a = 3;
 
-switch($a){
-    case 1: echo 'one'; break;
-    case 2: echo 'two'; break;
-    default: echo 'four'; break;
-    case 3: echo 'three'; break;
+// switch($a){
+//     case 1: echo 'one'; break;
+//     case 2: echo 'two'; break;
+//     default: echo 'four'; break;
+//     case 3: echo 'three'; break;
+// }
 
-}
+
+// $first = "second";
+// $second = "first";
+
+// echo $$first;
+?>
+
+<?php
+
+// function solveMeFirst($a,$b){
+//   // Hint: Type return $a + $b; below  
+//   return $a + $b;
+// }
+
+// $handle = fopen ("php://stdin","r");
+// $_a = fgets($handle);
+// $_b = fgets($handle);
+// $sum = solveMeFirst((int)$_a,(int)$_b);
+// print ($sum);
+// fclose($handle);
+?>
