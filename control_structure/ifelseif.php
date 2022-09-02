@@ -46,10 +46,10 @@ if($number==5):?>
 $usd = 100; 
 
 if($usd == 10): ?> 
-
 this is your minimum income 
 
-<?php 
+<?php
+ 
 elseif($usd == 50): ?> 
 this is your average income 
 

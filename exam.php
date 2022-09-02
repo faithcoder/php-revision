@@ -1,5 +1,7 @@
 <?php
 
+echo 1+2*"0x02";
+
 // function increment($val){
 //     $val = $val + 1; 
 // }
